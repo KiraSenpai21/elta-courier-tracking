@@ -23,3 +23,22 @@ The EltaCourier Tracking plugin allows you to track shipments using the ELTA Cou
 ## Usage
 
 To display the tracking form and tracking data on a post or page, use the following shortcode:
+
+[elta_courier_tracking]
+
+
+## Styling
+
+The plugin includes a `style.css` file that handles the styling of the tracking data table and the submit button. You can customize the CSS as needed to match your website's design.
+
+## Note
+
+In this example, the ELTA Courier API response is simulated using a predefined JSON string. In a real-world scenario, you will need to interact with the actual ELTA Courier API or any other shipping API to fetch real-time tracking data.
+
+## Support
+
+For support, bug reports, or feature requests, please open an issue on the [GitHub repository](https://github.com//elta-courier-tracking) or contact the author.
+
+## License
+
+This plugin is released under the [MIT License](LICENSE).
